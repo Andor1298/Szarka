@@ -8,6 +8,7 @@ a,a:hover,a:active{
 }
 
 #cimkep{
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
