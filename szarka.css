@@ -1,0 +1,28 @@
+body{
+    background-color: #F0F8FF;
+    color: #00008B;
+    
+}
+a,a:hover,a:active{
+    color: #DC143C;
+}
+
+#cimkep{
+    margin-left: auto;
+    margin-right: auto;
+}
+hr{
+    width: 70%;
+}
+h2{
+    color: #DC143C;
+}
+table{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#kep2{
+    width: 230px;
+    height: 153px;
+}
